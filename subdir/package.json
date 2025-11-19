@@ -7,7 +7,7 @@
     "prebuild": "tsx scripts/validate-extend-apps-directory.ts",
     "build": "yarn prebuild && NODE_ENV=production react-router build",
     "dev": "NODE_ENV=development react-router dev",
-    "start": "http-server build/client",
+    "start": "vite preview --outDir build/client",
     "typecheck": "react-router typegen && tsc"
   },
   "dependencies": {

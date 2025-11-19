@@ -42,7 +42,11 @@ To create a production build, run:
 yarn build
 ```
 
-This will create a `build` directory with the optimized assets.
+This will create a `build` directory with the optimized assets. To see production build, run:
+
+```bash
+yarn start
+```
 
 ## Project Structure
 
