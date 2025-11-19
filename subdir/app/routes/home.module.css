@@ -1,0 +1,16 @@
+.header {
+  background-color: white;
+  padding: 20px 24px;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+.main {
+  width: 100%;
+  max-width: 960px;
+  padding: 24px;
+  gap: 24px;
+}
+
+.title {
+  color: #000000e0;
+}
