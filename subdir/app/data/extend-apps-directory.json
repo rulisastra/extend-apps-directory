@@ -105,7 +105,7 @@
         "title": "Extend Challenge Common",
         "description": "Shared Go models and interfaces used across Challenge Suite components.",
         "url": "https://github.com/AccelByte/extend-challenge-common",
-        "language": "Go",
+        "language": "Go"
       },
       {
         "title": "Extend Challenge Service",
@@ -125,7 +125,7 @@
         "title": "Extend Challenge Demo App",
         "description": "CLI/TUI demo for testing and showcasing the Challenge Suite.",
         "url": "https://github.com/AccelByte/extend-challenge-demo-app",
-        "language": "Go",
+        "language": "Go"
       }
     ]
   },
