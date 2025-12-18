@@ -47,7 +47,8 @@
         "title": "Extend Rank Suite",
         "description": "Parent project of the ranking services, contains git submodules of the API, Manager, and Event Listener.",
         "url": "https://github.com/accelbyte/extend-rank-suite",
-        "language": "Shell"
+        "language": "Shell",
+        "index": true
       },
       {
         "title": "Extend Rank API",
@@ -96,6 +97,7 @@
     "creator": "AccelByte",
     "repositories": [
       {
+        "index": true,
         "title": "Extend Challenge Suite",
         "description": "Parent project for all the Extend Challenge apps, contains tooling and scripts to run and test the Challenge Suite locally.",
         "url": "https://github.com/AccelByte/extend-challenge-suite",
@@ -183,5 +185,19 @@
         "type": "event-handler"
       }
     ]
+  },
+  {
+    "id": "5a1888126521453893d95939770cd8f3",
+    "imageUrl": "/extend-apps-explorer/eos_easy_anti_cheat.png",
+    "title": "EOS Easy Anti-Cheat",
+    "description": "Authenticates and evaluates EAC signals, maps them to your enforcement policies, and triggers actions such as bans, reports, or telemetry updates through AccelByte services.",
+    "creator": "AccelByte"
+  },
+  {
+    "id": "6401dda7b50643809ec4dcff96abe901",
+    "imageUrl": "/extend-apps-explorer/tournament_system.png",
+    "title": "Tournament System",
+    "description": "Set up tournament, invite players, and track scores all in one place, making it simple to organize exciting gaming events.",
+    "creator": "AccelByte"
   }
 ]

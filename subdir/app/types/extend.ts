@@ -46,6 +46,7 @@ export interface ExtendDirectoryAppInfo {
 }
 
 export interface RepositoryInfo {
+  index?: boolean
   title: string
   description: string
   url: string
