@@ -182,7 +182,7 @@
         "description": "Go event handler that creates and updates EOS Voice rooms based on session and party events.",
         "url": "https://github.com/AccelByte/extend-eos-voice-rtc",
         "language": "Go",
-        "type": "event-handler"
+        "type": "service-extension"
       }
     ]
   },
